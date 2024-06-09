@@ -1,0 +1,7 @@
+      24         FerrisWheel                 225              400_sq                      100                 150                  25             Working
+      21           BumperCar                  20              122_sq                      200                 100                  30             Working
+      14            Carousel                  90              233_sq                      300                  70                  15             Working
+      16           CamelRide                  12              410_sq                      100                  90                  20             Working
+      18             Boating                  50              100_sq                      100                 120                  30             Working
+      19              9DRide                  40              220_sq                      300                 200                  10             Working
+      10          DragonRide                 100              330_sq                      400                 100                  15             Working
